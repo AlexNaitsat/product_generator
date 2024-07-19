@@ -1,0 +1,1605 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "ad04db40-85d3-4ec4-8c0d-e34bd7a5cf27",
+      "sequence_id": "3a18e5bd-eb00-416d-a226-99ece2468d1a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3d6b5162-f0d0-4a4f-8296-bbc82a245306",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "candy_minipralines_lindt",
+  "instance_id": 1,
+  "x": 593.0,
+  "y": 382.0,
+  "width": 208.0,
+  "height": 60.0
+}
+          ]
+        },
+        {
+          "id": "bcde9815-d8a4-4b1f-b0f8-2fbb23b55baf",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_2.png"
+        }
+      ]
+    },
+    {
+      "id": "f70fe8bf-f350-4919-b2b6-da58b5fce9c5",
+      "sequence_id": "3a18e5bd-eb00-416d-a226-99ece2468d1a",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "7d9a4701-fd63-45b0-a3ad-11a8fcb6e72d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "candy_minipralines_lindt",
+  "instance_id": 1,
+  "x": 676.0,
+  "y": 310.0,
+  "width": 154.0,
+  "height": 102.0
+}
+          ]
+        },
+        {
+          "id": "3d9f23c0-cdb4-4fec-871d-93a4284a92b9",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_3.png"
+        }
+      ]
+    },
+    {
+      "id": "cd838895-c69c-45b6-90c3-d53f5d59a75e",
+      "sequence_id": "dd47d96e-a440-467a-b360-20e88384a4c6",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5b1554c0-c382-4d30-8f34-990f1debd750",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 2,
+  "label_name": "cereal_cheerios_honeynut",
+  "instance_id": 2,
+  "x": 710.0,
+  "y": 229.0,
+  "width": 129.0,
+  "height": 167.0
+}
+          ]
+        },
+        {
+          "id": "142499cb-afeb-4636-9372-29257dca26c6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_4.png"
+        }
+      ]
+    },
+    {
+      "id": "3b027254-c009-4d77-a526-67ef8bc107c1",
+      "sequence_id": "dd47d96e-a440-467a-b360-20e88384a4c6",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_5.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "edbb1bff-5a8d-4e7e-9c22-44c085a48ad1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 2,
+  "label_name": "cereal_cheerios_honeynut",
+  "instance_id": 2,
+  "x": 669.0,
+  "y": 120.0,
+  "width": 164.0,
+  "height": 367.0
+}
+          ]
+        },
+        {
+          "id": "37342e30-49d3-45ba-9e7b-0f6782c5d2c3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_5.png"
+        }
+      ]
+    },
+    {
+      "id": "eac2b2a6-add6-4835-95a3-23f0f1fe3ef6",
+      "sequence_id": "96728d4b-ed28-456f-9480-076d61a67a66",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_6.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e94bc06c-f132-458e-aedd-7a3c93f49057",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 3,
+  "label_name": "cleaning_snuggle_henkel",
+  "instance_id": 3,
+  "x": 666.0,
+  "y": 248.0,
+  "width": 248.0,
+  "height": 240.0
+}
+          ]
+        },
+        {
+          "id": "70d49492-a433-4b8d-8e25-f80cedeb0aa1",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_6.png"
+        }
+      ]
+    },
+    {
+      "id": "03f4281c-162b-4812-b55c-b94f13fbd3e5",
+      "sequence_id": "96728d4b-ed28-456f-9480-076d61a67a66",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_7.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "02b1404b-2411-44eb-8d3f-bbacd5c60e6d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 3,
+  "label_name": "cleaning_snuggle_henkel",
+  "instance_id": 3,
+  "x": 712.0,
+  "y": 280.0,
+  "width": 108.0,
+  "height": 155.0
+}
+          ]
+        },
+        {
+          "id": "2aec5026-4610-4cd9-9b8f-317ffd99792f",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_7.png"
+        }
+      ]
+    },
+    {
+      "id": "8d15dcb9-025a-49a5-9881-d645a739d87d",
+      "sequence_id": "e81fcb3c-0f05-4912-8328-bf074b9c4464",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_8.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "fe8aee41-d5a3-445a-8845-d2ccab50ce4c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 4,
+  "label_name": "craft_yarn_caron_01",
+  "instance_id": 4,
+  "x": 675.0,
+  "y": 244.0,
+  "width": 196.0,
+  "height": 167.0
+}
+          ]
+        },
+        {
+          "id": "851a23bf-a584-45c2-8a26-a3844b89f579",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_8.png"
+        }
+      ]
+    },
+    {
+      "id": "eefd42ee-411e-415d-ab5c-d88d036037ee",
+      "sequence_id": "e81fcb3c-0f05-4912-8328-bf074b9c4464",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_9.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "07c37815-5f9a-40e1-aace-c16199a2fdba",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 4,
+  "label_name": "craft_yarn_caron_01",
+  "instance_id": 4,
+  "x": 654.0,
+  "y": 247.0,
+  "width": 163.0,
+  "height": 132.0
+}
+          ]
+        },
+        {
+          "id": "78f3dad6-80cd-4ece-881a-62559efb5f32",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_9.png"
+        }
+      ]
+    },
+    {
+      "id": "7ea51aaf-0446-4100-8f99-d83260b1744c",
+      "sequence_id": "198d35a2-e29f-4ac7-a9bd-1db95f1df66c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_10.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "06fa5248-fd04-4756-9ebd-fe4ace4e4ffc",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 5,
+  "label_name": "drink_greentea_itoen",
+  "instance_id": 5,
+  "x": 716.0,
+  "y": 342.0,
+  "width": 53.0,
+  "height": 81.0
+}
+          ]
+        },
+        {
+          "id": "dd8963b3-6518-4156-b192-9f94ab4c5ae8",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_10.png"
+        }
+      ]
+    },
+    {
+      "id": "88572b83-92f1-442d-a241-eb1145fc9e68",
+      "sequence_id": "198d35a2-e29f-4ac7-a9bd-1db95f1df66c",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_11.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1d0fbd61-e538-406a-99c7-0c2c881ab776",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 5,
+  "label_name": "drink_greentea_itoen",
+  "instance_id": 5,
+  "x": 585.0,
+  "y": 339.0,
+  "width": 119.0,
+  "height": 192.0
+}
+          ]
+        },
+        {
+          "id": "7b93fed8-42dc-47fa-b273-bd1c62cae215",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_11.png"
+        }
+      ]
+    },
+    {
+      "id": "8bc5a647-2f5f-4663-b69e-df30bdc95d9f",
+      "sequence_id": "00e12cbf-4b02-42de-a1f7-e74914787e24",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_12.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "35290ac7-f0ca-40b3-8075-80d38cba2388",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 6,
+  "label_name": "drink_whippingcream_lucerne",
+  "instance_id": 6,
+  "x": 685.0,
+  "y": 386.0,
+  "width": 89.0,
+  "height": 99.0
+}
+          ]
+        },
+        {
+          "id": "54bf68e7-44e1-4eab-890d-13f5e1b728f3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_12.png"
+        }
+      ]
+    },
+    {
+      "id": "a2f9f5ea-91b3-4cb7-9637-65b4c3fde733",
+      "sequence_id": "00e12cbf-4b02-42de-a1f7-e74914787e24",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_13.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "79d0bd78-5c9b-4868-9e5e-db1505716007",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 6,
+  "label_name": "drink_whippingcream_lucerne",
+  "instance_id": 6,
+  "x": 712.0,
+  "y": 301.0,
+  "width": 66.0,
+  "height": 91.0
+}
+          ]
+        },
+        {
+          "id": "10ee61d6-661a-46b9-a020-73ab21cc0657",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_13.png"
+        }
+      ]
+    },
+    {
+      "id": "44d67153-1cb5-4aed-b895-7fc4c6dfa201",
+      "sequence_id": "9920fc88-c6ce-453a-a74d-5124a1abdacd",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_14.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f2525e8a-688e-4b3e-a298-d0e05207c80e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 7,
+  "label_name": "lotion_essentially_nivea",
+  "instance_id": 7,
+  "x": 621.0,
+  "y": 273.0,
+  "width": 87.0,
+  "height": 122.0
+}
+          ]
+        },
+        {
+          "id": "2d229f35-82b1-4f2d-896d-76abcea8ce44",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_14.png"
+        }
+      ]
+    },
+    {
+      "id": "47cde708-726b-4bbe-b2d7-160e4d1620b4",
+      "sequence_id": "9920fc88-c6ce-453a-a74d-5124a1abdacd",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_15.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9a71406c-ef22-4366-b40d-daacb6efe899",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 7,
+  "label_name": "lotion_essentially_nivea",
+  "instance_id": 7,
+  "x": 719.0,
+  "y": 267.0,
+  "width": 107.0,
+  "height": 51.0
+}
+          ]
+        },
+        {
+          "id": "db703a22-d9d0-4715-851a-44f30aeff2f0",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_15.png"
+        }
+      ]
+    },
+    {
+      "id": "d4b60c46-cae1-4f10-93c3-edd14e0c50b3",
+      "sequence_id": "4e181669-49d7-4ee9-9346-eec7b13f27a1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_16.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "48541f9d-7c0b-45de-a25b-59b3d49c0700",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 8,
+  "label_name": "pasta_lasagne_barilla",
+  "instance_id": 8,
+  "x": 585.0,
+  "y": 298.0,
+  "width": 274.0,
+  "height": 176.0
+}
+          ]
+        },
+        {
+          "id": "05c76d9c-3c2e-46ae-abfd-fa805e53d8fe",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_16.png"
+        }
+      ]
+    },
+    {
+      "id": "74e6b044-7bd3-417d-a28c-32b25f6f0d70",
+      "sequence_id": "4e181669-49d7-4ee9-9346-eec7b13f27a1",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_17.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "197749fc-7070-4985-b934-d7f1e609b82d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 8,
+  "label_name": "pasta_lasagne_barilla",
+  "instance_id": 8,
+  "x": 596.0,
+  "y": 302.0,
+  "width": 180.0,
+  "height": 71.0
+}
+          ]
+        },
+        {
+          "id": "8a75cb08-cf6d-491a-a3a4-cacdfb82568d",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_17.png"
+        }
+      ]
+    },
+    {
+      "id": "fc2f3387-6094-4b96-aa3f-c6de6756d73d",
+      "sequence_id": "d1f9c4c4-0800-45fc-a113-ae3f5f8e1495",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_18.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "68da6d4f-592f-4d05-a7fd-405992270631",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 9,
+  "label_name": "snack_biscotti_ghiott_01",
+  "instance_id": 9,
+  "x": 512.0,
+  "y": 150.0,
+  "width": 201.0,
+  "height": 336.0
+}
+          ]
+        },
+        {
+          "id": "fd465759-f427-4845-8ee4-dbeca5a38a3e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_18.png"
+        }
+      ]
+    },
+    {
+      "id": "86240c24-534f-461f-8d53-998a777d2549",
+      "sequence_id": "d1f9c4c4-0800-45fc-a113-ae3f5f8e1495",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_19.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "496e4810-2f23-4a95-924b-02a1d3e541d1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 9,
+  "label_name": "snack_biscotti_ghiott_01",
+  "instance_id": 9,
+  "x": 554.0,
+  "y": 306.0,
+  "width": 178.0,
+  "height": 200.0
+}
+          ]
+        },
+        {
+          "id": "362a4f7d-ffa8-4f99-80b6-25637b35169a",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_19.png"
+        }
+      ]
+    },
+    {
+      "id": "d32da74a-318b-44b9-8063-b7bde819a3a3",
+      "sequence_id": "4718c276-73c0-4948-bad7-185576ddae16",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_20.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a801aa28-cd50-418f-a936-3e6a751c2ac6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 10,
+  "label_name": "snack_granolabar_naturevalley",
+  "instance_id": 10,
+  "x": 698.0,
+  "y": 307.0,
+  "width": 152.0,
+  "height": 137.0
+}
+          ]
+        },
+        {
+          "id": "1d9033c4-680a-4052-be7a-d4abaeb47418",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_20.png"
+        }
+      ]
+    },
+    {
+      "id": "39404515-0249-48de-b816-7c2391be7104",
+      "sequence_id": "4718c276-73c0-4948-bad7-185576ddae16",
+      "step": 1,
+      "timestamp": 0.0166,
+      "sensor": {
+        "sensor_id": "203b4ea0-fd68-4d0a-8ee5-39eb290dfbf9",
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            0.9018819,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.73205078,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "fcc663b2-38ba-4bcc-b9b6-aab757bf6ffe",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB81b184ef-6ded-4ef3-a090-78bfead125f7/rgb_21.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e0c0e718-2113-461d-bd1b-d325eea65669",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 10,
+  "label_name": "snack_granolabar_naturevalley",
+  "instance_id": 10,
+  "x": 713.0,
+  "y": 268.0,
+  "width": 71.0,
+  "height": 104.0
+}
+          ]
+        },
+        {
+          "id": "ac2f2bf2-9985-46bc-a4bd-5ed05192e693",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentationa1035556-cb12-4781-8047-cc3c7e7875ca/segmentation_21.png"
+        }
+      ]
+    }
+  ]
+}
