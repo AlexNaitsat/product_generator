@@ -103,7 +103,7 @@ In addition to 3D reconstruction data, each simulation generates a new dataset f
 
 ## Getting Started
 ### Plug & play setup 
-To load project configurations and install required packages just open the [product_generator.unity](Assets\product_generator.unity)  project file. Your configurations in Unity GUI should be as follows:
+To load project configurations and install required packages just open the [product_generator.unity](Assets/product_generator.unity)  project file. Your configurations in Unity GUI should be as follows:
 <table style="width: 100%; table-layout: fixed;">
   <colgroup>
     <col style="width: 20%;">
